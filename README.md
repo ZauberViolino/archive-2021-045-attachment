@@ -1,3 +1,5 @@
+_Note: This is the attachment of the change request 2021-045, a proposal for splitting Min Nan Chinese [nan] into 11 languages. This does not reflect the point of view of this repository's owner._
+
 # Reclassifying ISO 639-3 [nan]
 
 We have applied to the ISO 639-3 Registration Authority to split ISO 639-3 Min Nan Chinese [nan] into the following languages:
